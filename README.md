@@ -27,10 +27,10 @@ Setting ORM implementation aside, there's also PokemonApp in the repo, it's an a
 
 __Few screenshots__:
 
-![](https://raw.githubusercontent.com/Dellagi/pySQL_API/main/pokemonApp/assets/screenshot_1.png)
+![](https://raw.githubusercontent.com/Dellagi/pokemonApp/main/assets/screenshot_1.png)
 
-![](https://raw.githubusercontent.com/Dellagi/pySQL_API/main/pokemonApp/assets/screenshot_2.png)
+![](https://raw.githubusercontent.com/Dellagi/pokemonApp/main/assets/screenshot_2.png)
 
-![](https://raw.githubusercontent.com/Dellagi/pySQL_API/main/pokemonApp/assets/screenshot_3.png)
+![](https://raw.githubusercontent.com/Dellagi/pokemonApp/main/assets/screenshot_3.png)
 
 # pokemonApp
